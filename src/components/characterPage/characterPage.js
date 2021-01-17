@@ -4,7 +4,6 @@ import ItemList from '../itemList';
 import CharDetails from '../charDetails';
 import ErrorMessage from '../errorMesage';
 
-
 export default class CharacterPage extends Component {
 
     state = {
