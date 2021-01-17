@@ -54,7 +54,7 @@ export default class ItemList extends Component {
 
         return (
             <ul className="item-list list-group">
-                {errorMessage}
+            {errorMessage}
                {items}
             </ul>
         );
